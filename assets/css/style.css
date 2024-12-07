@@ -93,3 +93,28 @@ body {
   scale: 1.1;
   transition: 0.3s;
 }
+
+.buttons {
+  background-color: #6e738d;
+  border: none;
+  color: #cad3f5;
+  font-size: 1.5rem;
+  margin: 5px;
+  padding: 15px;
+  border-radius: 10px;
+  transition: 0.3s;
+}
+
+.green {
+  background-color: #a6da95;
+  color: #363a4f;
+}
+
+.buttons:hover {
+  scale: 1.1;
+  transition: 0.3s;
+}
+
+a {
+  color: #8aadf4;
+}
