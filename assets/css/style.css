@@ -1,0 +1,95 @@
+@import url("https://fonts.googleapis.com/css2?family=Sour+Gummy:ital@0;1&display=swap");
+body {
+  background-color: #24273a;
+  color: #cad3f5;
+  font-family: "Sour Gummy", serif;
+  font-weight: 400;
+  text-align: center;
+}
+
+.title {
+  font-size: 5rem;
+  margin: 20px;
+}
+
+.mainbox {
+  background-color: #363a4f;
+  border-radius: 10px;
+  height: 50vh;
+  width: 60vw;
+  max-width: 1200px;
+  margin: 0 auto;
+  box-shadow: 0 0 10px 5px #1e2030;
+}
+
+.input {
+  background-color: #6e738d;
+  border: none;
+  color: #cad3f5;
+  font-size: 1.5rem;
+  margin: 20px;
+  padding: 15px;
+  width: 80%;
+  border-radius: 10px;
+  margin-top: 50px;
+}
+
+.input::placeholder {
+  color: #cad3f5;
+}
+
+.input:focus {
+  outline: none;
+}
+
+.customize {
+  font-size: 2rem;
+  margin-bottom: 0;
+}
+
+.link {
+  font-size: 2rem;
+  margin-top: 60px;
+}
+.custom {
+  background-color: #6e738d;
+  border: none;
+  color: #cad3f5;
+  font-size: 1.5rem;
+  margin: 20px;
+  padding: 15px;
+  width: 50%;
+  border-radius: 10px;
+  margin-top: 50px;
+  max-width: 300px;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.custom::placeholder {
+  color: #cad3f5;
+}
+
+.custom:focus {
+  outline: none;
+}
+
+.shorten {
+  background-color: #a6da95;
+  border: none;
+  color: #363a4f;
+  width: 200px;
+  font-size: 1.5rem;
+  padding: 15px;
+  transition: 0.3s;
+  border-radius: 10px;
+}
+
+.shorten:hover {
+  background-color: #8fcf85;
+  scale: 1.1;
+  transition: 0.3s;
+}
