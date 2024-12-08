@@ -3,21 +3,21 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://lofi.ch3n.cc">
-    <img src="https://cloud-804nlv5ep-hack-club-bot.vercel.app/1lofi_radio__400_x_100_px_.png" alt="Logo" style='border-radius: 15px'>
+  <a href="https://url.ch3n.cc">
+    <img src="https://cloud-9om31cugp-hack-club-bot.vercel.app/1tiny__400_x_100_px_.png" alt="Logo" style='border-radius: 15px'>
   </a>
 
-<h3 align="center">Lofi Radio</h3>
+<h3 align="center">Mini URL</h3>
 
   <p align="center">
-    Listen to lofi music 24/7 synced
+    A quick and easy url shortener
     <br />
     <br />
-    <a href="https://lofi.ch3n.cc">View Demo</a>
+    <a href="https://url.ch3n.cc">View Demo</a>
     ·
-    <a href="https://github.com/RedNotSus/lofi-radio/issues">Report Bug</a>
+    <a href="https://github.com/RedNotSus/mini-url/issues">Report Bug</a>
     ·
-    <a href="https://github.com/RedNotSus/lofi-radio/issues">Request Feature</a>
+    <a href="https://github.com/RedNotSus/mini-url/issues">Request Feature</a>
   </p>
 </div>
 
@@ -51,7 +51,7 @@
 
 ## About The Project
 
-This is a player that broadcasts lofi 24/7, it is synced so everyone is listening to the same song at the same time, based off of a play list found in the backend.
+A quick and easy url shortener, no tracking, no accounts needed, just a simple url shortener.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -72,7 +72,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/RedNotSus/lofi-radio.git
+   git clone https://github.com/RedNotSus/mini-url.git
    ```
 2. Use caddy or any other server to serve the files
 
@@ -82,7 +82,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Usage
 
-- Listen to lofi
+- Shorten URLS
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -90,12 +90,10 @@ To get a local copy up and running follow these simple example steps.
 
 ## Roadmap
 
-- [ ] Next up feature
-- [ ] Skipping songs
-- [ ] Better UI
-- [ ] Admin panel
+- [ ] Changing already made urls
+- [ ] Custom Domains
 
-See the [open issues](https://github.com/rednotsus/lofi-radio/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/rednotsus/mini-url/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -118,14 +116,14 @@ Don't forget to give the project a star! Thanks again!
 
 ### Top contributors:
 
-<a href="https://github.com/rednotsus/lofi-radio/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=rednotsus/lofi-radio" alt="contrib.rocks image" />
+<a href="https://github.com/rednotsus/mini-url/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=rednotsus/mini-url" alt="contrib.rocks image" />
 </a>
 
 <!-- LICENSE -->
 
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the GNU Affero General Public License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
